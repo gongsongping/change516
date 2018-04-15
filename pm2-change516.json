@@ -1,0 +1,9 @@
+{
+    "apps" : [{
+      "name"       : "change516",
+      "script"     : "bundle exec puma -e production",
+      "exec_interpreter": "ruby",
+      "max_memory_restart" : "100M",
+      "exec_mode"  : "fork_mode"
+    }]
+  }
