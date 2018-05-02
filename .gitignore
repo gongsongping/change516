@@ -21,3 +21,4 @@
 fabfile.py
 fabfile.pyc
 __pycache__/
+.pm2/
